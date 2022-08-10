@@ -1,0 +1,2 @@
+Please read the support file inside the Support folder first!!!
+Once you have read the support file it is assumed that you have the necessary python modules and libraries installed alongside visual studio code or your prefered IDE. Move the finalBackend folder to wherever you want to on the machine. It is prefered to move it to the Desktop to avoid any path issues. 

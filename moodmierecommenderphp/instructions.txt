@@ -1,0 +1,2 @@
+Please read the support file inside Support folder first!!!
+Once you have read the support file, it is assumed that you have installed xampp server. move this folder called moodmierecommenderphp into the htdocs folder in the xampp directory. 

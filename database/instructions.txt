@@ -1,0 +1,2 @@
+Please read the support file inside the Support folder first!!!
+Once you have read the support file it is assumed that you have xampp installed on your machine. Run xampp server and type localhost in your browser. Navigate to phpmyadmin. Once loaded press on Import and select the moodmie.sql file in this folder, This will load the entire database onto the xampp server. 
